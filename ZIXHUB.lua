@@ -61,7 +61,6 @@ Button.MouseButton1Click:Connect(function()
 		ScreenGui:Destroy()
 
 		-- AQUÍ VA TU SCRIPT PRINCIPAL
-		
 local Players = game:GetService("Players")
 local VirtualUser = game:GetService("VirtualUser")
 
